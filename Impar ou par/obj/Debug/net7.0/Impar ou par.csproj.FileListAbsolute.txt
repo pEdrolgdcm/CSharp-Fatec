@@ -1,0 +1,15 @@
+D:\Fatec\códigos\C# Terceiro semestre\Impar ou par\bin\Debug\net7.0\Impar ou par.exe
+D:\Fatec\códigos\C# Terceiro semestre\Impar ou par\bin\Debug\net7.0\Impar ou par.deps.json
+D:\Fatec\códigos\C# Terceiro semestre\Impar ou par\bin\Debug\net7.0\Impar ou par.runtimeconfig.json
+D:\Fatec\códigos\C# Terceiro semestre\Impar ou par\bin\Debug\net7.0\Impar ou par.dll
+D:\Fatec\códigos\C# Terceiro semestre\Impar ou par\bin\Debug\net7.0\Impar ou par.pdb
+D:\Fatec\códigos\C# Terceiro semestre\Impar ou par\obj\Debug\net7.0\Impar ou par.csproj.AssemblyReference.cache
+D:\Fatec\códigos\C# Terceiro semestre\Impar ou par\obj\Debug\net7.0\Impar ou par.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\códigos\C# Terceiro semestre\Impar ou par\obj\Debug\net7.0\Impar ou par.AssemblyInfoInputs.cache
+D:\Fatec\códigos\C# Terceiro semestre\Impar ou par\obj\Debug\net7.0\Impar ou par.AssemblyInfo.cs
+D:\Fatec\códigos\C# Terceiro semestre\Impar ou par\obj\Debug\net7.0\Impar ou par.csproj.CoreCompileInputs.cache
+D:\Fatec\códigos\C# Terceiro semestre\Impar ou par\obj\Debug\net7.0\Impar ou par.dll
+D:\Fatec\códigos\C# Terceiro semestre\Impar ou par\obj\Debug\net7.0\refint\Impar ou par.dll
+D:\Fatec\códigos\C# Terceiro semestre\Impar ou par\obj\Debug\net7.0\Impar ou par.pdb
+D:\Fatec\códigos\C# Terceiro semestre\Impar ou par\obj\Debug\net7.0\Impar ou par.genruntimeconfig.cache
+D:\Fatec\códigos\C# Terceiro semestre\Impar ou par\obj\Debug\net7.0\ref\Impar ou par.dll

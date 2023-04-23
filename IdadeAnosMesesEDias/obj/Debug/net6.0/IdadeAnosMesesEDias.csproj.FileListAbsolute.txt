@@ -1,0 +1,15 @@
+E:\Códigos VS\IdadeAnosMesesEDias\bin\Debug\net6.0\IdadeAnosMesesEDias.exe
+E:\Códigos VS\IdadeAnosMesesEDias\bin\Debug\net6.0\IdadeAnosMesesEDias.deps.json
+E:\Códigos VS\IdadeAnosMesesEDias\bin\Debug\net6.0\IdadeAnosMesesEDias.runtimeconfig.json
+E:\Códigos VS\IdadeAnosMesesEDias\bin\Debug\net6.0\IdadeAnosMesesEDias.dll
+E:\Códigos VS\IdadeAnosMesesEDias\bin\Debug\net6.0\IdadeAnosMesesEDias.pdb
+E:\Códigos VS\IdadeAnosMesesEDias\obj\Debug\net6.0\IdadeAnosMesesEDias.csproj.AssemblyReference.cache
+E:\Códigos VS\IdadeAnosMesesEDias\obj\Debug\net6.0\IdadeAnosMesesEDias.GeneratedMSBuildEditorConfig.editorconfig
+E:\Códigos VS\IdadeAnosMesesEDias\obj\Debug\net6.0\IdadeAnosMesesEDias.AssemblyInfoInputs.cache
+E:\Códigos VS\IdadeAnosMesesEDias\obj\Debug\net6.0\IdadeAnosMesesEDias.AssemblyInfo.cs
+E:\Códigos VS\IdadeAnosMesesEDias\obj\Debug\net6.0\IdadeAnosMesesEDias.csproj.CoreCompileInputs.cache
+E:\Códigos VS\IdadeAnosMesesEDias\obj\Debug\net6.0\IdadeAnosMesesEDias.dll
+E:\Códigos VS\IdadeAnosMesesEDias\obj\Debug\net6.0\refint\IdadeAnosMesesEDias.dll
+E:\Códigos VS\IdadeAnosMesesEDias\obj\Debug\net6.0\IdadeAnosMesesEDias.pdb
+E:\Códigos VS\IdadeAnosMesesEDias\obj\Debug\net6.0\IdadeAnosMesesEDias.genruntimeconfig.cache
+E:\Códigos VS\IdadeAnosMesesEDias\obj\Debug\net6.0\ref\IdadeAnosMesesEDias.dll

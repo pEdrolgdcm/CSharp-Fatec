@@ -1,0 +1,15 @@
+E:\Códigos VS\SrOuSraTempo\bin\Debug\net6.0\SrOuSraTempo.exe
+E:\Códigos VS\SrOuSraTempo\bin\Debug\net6.0\SrOuSraTempo.deps.json
+E:\Códigos VS\SrOuSraTempo\bin\Debug\net6.0\SrOuSraTempo.runtimeconfig.json
+E:\Códigos VS\SrOuSraTempo\bin\Debug\net6.0\SrOuSraTempo.dll
+E:\Códigos VS\SrOuSraTempo\bin\Debug\net6.0\SrOuSraTempo.pdb
+E:\Códigos VS\SrOuSraTempo\obj\Debug\net6.0\SrOuSraTempo.csproj.AssemblyReference.cache
+E:\Códigos VS\SrOuSraTempo\obj\Debug\net6.0\SrOuSraTempo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Códigos VS\SrOuSraTempo\obj\Debug\net6.0\SrOuSraTempo.AssemblyInfoInputs.cache
+E:\Códigos VS\SrOuSraTempo\obj\Debug\net6.0\SrOuSraTempo.AssemblyInfo.cs
+E:\Códigos VS\SrOuSraTempo\obj\Debug\net6.0\SrOuSraTempo.csproj.CoreCompileInputs.cache
+E:\Códigos VS\SrOuSraTempo\obj\Debug\net6.0\SrOuSraTempo.dll
+E:\Códigos VS\SrOuSraTempo\obj\Debug\net6.0\refint\SrOuSraTempo.dll
+E:\Códigos VS\SrOuSraTempo\obj\Debug\net6.0\SrOuSraTempo.pdb
+E:\Códigos VS\SrOuSraTempo\obj\Debug\net6.0\SrOuSraTempo.genruntimeconfig.cache
+E:\Códigos VS\SrOuSraTempo\obj\Debug\net6.0\ref\SrOuSraTempo.dll

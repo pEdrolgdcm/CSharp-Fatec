@@ -1,0 +1,15 @@
+D:\Fatec\códigos\C# Terceiro semestre\Área triangulo\bin\Debug\net7.0\Área triangulo.exe
+D:\Fatec\códigos\C# Terceiro semestre\Área triangulo\bin\Debug\net7.0\Área triangulo.deps.json
+D:\Fatec\códigos\C# Terceiro semestre\Área triangulo\bin\Debug\net7.0\Área triangulo.runtimeconfig.json
+D:\Fatec\códigos\C# Terceiro semestre\Área triangulo\bin\Debug\net7.0\Área triangulo.dll
+D:\Fatec\códigos\C# Terceiro semestre\Área triangulo\bin\Debug\net7.0\Área triangulo.pdb
+D:\Fatec\códigos\C# Terceiro semestre\Área triangulo\obj\Debug\net7.0\Área triangulo.csproj.AssemblyReference.cache
+D:\Fatec\códigos\C# Terceiro semestre\Área triangulo\obj\Debug\net7.0\Área triangulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\códigos\C# Terceiro semestre\Área triangulo\obj\Debug\net7.0\Área triangulo.AssemblyInfoInputs.cache
+D:\Fatec\códigos\C# Terceiro semestre\Área triangulo\obj\Debug\net7.0\Área triangulo.AssemblyInfo.cs
+D:\Fatec\códigos\C# Terceiro semestre\Área triangulo\obj\Debug\net7.0\Área triangulo.csproj.CoreCompileInputs.cache
+D:\Fatec\códigos\C# Terceiro semestre\Área triangulo\obj\Debug\net7.0\Área triangulo.dll
+D:\Fatec\códigos\C# Terceiro semestre\Área triangulo\obj\Debug\net7.0\refint\Área triangulo.dll
+D:\Fatec\códigos\C# Terceiro semestre\Área triangulo\obj\Debug\net7.0\Área triangulo.pdb
+D:\Fatec\códigos\C# Terceiro semestre\Área triangulo\obj\Debug\net7.0\Área triangulo.genruntimeconfig.cache
+D:\Fatec\códigos\C# Terceiro semestre\Área triangulo\obj\Debug\net7.0\ref\Área triangulo.dll

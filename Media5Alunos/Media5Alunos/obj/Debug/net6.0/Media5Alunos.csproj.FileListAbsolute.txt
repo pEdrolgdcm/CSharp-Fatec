@@ -1,0 +1,15 @@
+E:\Códigos VS\Media5Alunos\Media5Alunos\obj\Debug\net6.0\Media5Alunos.csproj.AssemblyReference.cache
+E:\Códigos VS\Media5Alunos\Media5Alunos\obj\Debug\net6.0\Media5Alunos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Códigos VS\Media5Alunos\Media5Alunos\obj\Debug\net6.0\Media5Alunos.AssemblyInfoInputs.cache
+E:\Códigos VS\Media5Alunos\Media5Alunos\obj\Debug\net6.0\Media5Alunos.AssemblyInfo.cs
+E:\Códigos VS\Media5Alunos\Media5Alunos\obj\Debug\net6.0\Media5Alunos.csproj.CoreCompileInputs.cache
+E:\Códigos VS\Media5Alunos\Media5Alunos\bin\Debug\net6.0\Media5Alunos.exe
+E:\Códigos VS\Media5Alunos\Media5Alunos\bin\Debug\net6.0\Media5Alunos.deps.json
+E:\Códigos VS\Media5Alunos\Media5Alunos\bin\Debug\net6.0\Media5Alunos.runtimeconfig.json
+E:\Códigos VS\Media5Alunos\Media5Alunos\bin\Debug\net6.0\Media5Alunos.dll
+E:\Códigos VS\Media5Alunos\Media5Alunos\bin\Debug\net6.0\Media5Alunos.pdb
+E:\Códigos VS\Media5Alunos\Media5Alunos\obj\Debug\net6.0\Media5Alunos.dll
+E:\Códigos VS\Media5Alunos\Media5Alunos\obj\Debug\net6.0\refint\Media5Alunos.dll
+E:\Códigos VS\Media5Alunos\Media5Alunos\obj\Debug\net6.0\Media5Alunos.pdb
+E:\Códigos VS\Media5Alunos\Media5Alunos\obj\Debug\net6.0\Media5Alunos.genruntimeconfig.cache
+E:\Códigos VS\Media5Alunos\Media5Alunos\obj\Debug\net6.0\ref\Media5Alunos.dll

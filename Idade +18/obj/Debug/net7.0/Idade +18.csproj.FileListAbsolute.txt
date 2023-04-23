@@ -1,0 +1,15 @@
+D:\Fatec\códigos\C# Terceiro semestre\Idade +18\bin\Debug\net7.0\Idade +18.exe
+D:\Fatec\códigos\C# Terceiro semestre\Idade +18\bin\Debug\net7.0\Idade +18.deps.json
+D:\Fatec\códigos\C# Terceiro semestre\Idade +18\bin\Debug\net7.0\Idade +18.runtimeconfig.json
+D:\Fatec\códigos\C# Terceiro semestre\Idade +18\bin\Debug\net7.0\Idade +18.dll
+D:\Fatec\códigos\C# Terceiro semestre\Idade +18\bin\Debug\net7.0\Idade +18.pdb
+D:\Fatec\códigos\C# Terceiro semestre\Idade +18\obj\Debug\net7.0\Idade +18.csproj.AssemblyReference.cache
+D:\Fatec\códigos\C# Terceiro semestre\Idade +18\obj\Debug\net7.0\Idade +18.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\códigos\C# Terceiro semestre\Idade +18\obj\Debug\net7.0\Idade +18.AssemblyInfoInputs.cache
+D:\Fatec\códigos\C# Terceiro semestre\Idade +18\obj\Debug\net7.0\Idade +18.AssemblyInfo.cs
+D:\Fatec\códigos\C# Terceiro semestre\Idade +18\obj\Debug\net7.0\Idade +18.csproj.CoreCompileInputs.cache
+D:\Fatec\códigos\C# Terceiro semestre\Idade +18\obj\Debug\net7.0\Idade +18.dll
+D:\Fatec\códigos\C# Terceiro semestre\Idade +18\obj\Debug\net7.0\refint\Idade +18.dll
+D:\Fatec\códigos\C# Terceiro semestre\Idade +18\obj\Debug\net7.0\Idade +18.pdb
+D:\Fatec\códigos\C# Terceiro semestre\Idade +18\obj\Debug\net7.0\Idade +18.genruntimeconfig.cache
+D:\Fatec\códigos\C# Terceiro semestre\Idade +18\obj\Debug\net7.0\ref\Idade +18.dll

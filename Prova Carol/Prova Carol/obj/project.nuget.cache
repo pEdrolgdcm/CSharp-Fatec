@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "m/q7msRDStxC4gDbI6KX1MGL2YhrXvD4MrQcF6wwJ5TRzRSol+py8vZOs+pS7hLWAiVKmrMYsWUSm5E429mymQ==",
+  "success": true,
+  "projectFilePath": "D:\\Fatec\\códigos\\C# Terceiro semestre\\Prova Carol\\Prova Carol\\Prova Carol.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedri\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\pedri\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\pedri\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\pedri\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\pedri\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\pedri\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\pedri\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

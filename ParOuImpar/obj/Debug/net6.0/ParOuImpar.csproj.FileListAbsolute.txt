@@ -1,0 +1,15 @@
+E:\Códigos VS\ParOuImpar\bin\Debug\net6.0\ParOuImpar.exe
+E:\Códigos VS\ParOuImpar\bin\Debug\net6.0\ParOuImpar.deps.json
+E:\Códigos VS\ParOuImpar\bin\Debug\net6.0\ParOuImpar.runtimeconfig.json
+E:\Códigos VS\ParOuImpar\bin\Debug\net6.0\ParOuImpar.dll
+E:\Códigos VS\ParOuImpar\bin\Debug\net6.0\ParOuImpar.pdb
+E:\Códigos VS\ParOuImpar\obj\Debug\net6.0\ParOuImpar.csproj.AssemblyReference.cache
+E:\Códigos VS\ParOuImpar\obj\Debug\net6.0\ParOuImpar.GeneratedMSBuildEditorConfig.editorconfig
+E:\Códigos VS\ParOuImpar\obj\Debug\net6.0\ParOuImpar.AssemblyInfoInputs.cache
+E:\Códigos VS\ParOuImpar\obj\Debug\net6.0\ParOuImpar.AssemblyInfo.cs
+E:\Códigos VS\ParOuImpar\obj\Debug\net6.0\ParOuImpar.csproj.CoreCompileInputs.cache
+E:\Códigos VS\ParOuImpar\obj\Debug\net6.0\ParOuImpar.dll
+E:\Códigos VS\ParOuImpar\obj\Debug\net6.0\refint\ParOuImpar.dll
+E:\Códigos VS\ParOuImpar\obj\Debug\net6.0\ParOuImpar.pdb
+E:\Códigos VS\ParOuImpar\obj\Debug\net6.0\ParOuImpar.genruntimeconfig.cache
+E:\Códigos VS\ParOuImpar\obj\Debug\net6.0\ref\ParOuImpar.dll

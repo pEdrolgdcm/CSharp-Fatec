@@ -1,0 +1,15 @@
+D:\Fatec\códigos\C# Terceiro semestre\Dias da pessoa\bin\Debug\net7.0\Dias da pessoa.exe
+D:\Fatec\códigos\C# Terceiro semestre\Dias da pessoa\bin\Debug\net7.0\Dias da pessoa.deps.json
+D:\Fatec\códigos\C# Terceiro semestre\Dias da pessoa\bin\Debug\net7.0\Dias da pessoa.runtimeconfig.json
+D:\Fatec\códigos\C# Terceiro semestre\Dias da pessoa\bin\Debug\net7.0\Dias da pessoa.dll
+D:\Fatec\códigos\C# Terceiro semestre\Dias da pessoa\bin\Debug\net7.0\Dias da pessoa.pdb
+D:\Fatec\códigos\C# Terceiro semestre\Dias da pessoa\obj\Debug\net7.0\Dias da pessoa.csproj.AssemblyReference.cache
+D:\Fatec\códigos\C# Terceiro semestre\Dias da pessoa\obj\Debug\net7.0\Dias da pessoa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\códigos\C# Terceiro semestre\Dias da pessoa\obj\Debug\net7.0\Dias da pessoa.AssemblyInfoInputs.cache
+D:\Fatec\códigos\C# Terceiro semestre\Dias da pessoa\obj\Debug\net7.0\Dias da pessoa.AssemblyInfo.cs
+D:\Fatec\códigos\C# Terceiro semestre\Dias da pessoa\obj\Debug\net7.0\Dias da pessoa.csproj.CoreCompileInputs.cache
+D:\Fatec\códigos\C# Terceiro semestre\Dias da pessoa\obj\Debug\net7.0\Dias da pessoa.dll
+D:\Fatec\códigos\C# Terceiro semestre\Dias da pessoa\obj\Debug\net7.0\refint\Dias da pessoa.dll
+D:\Fatec\códigos\C# Terceiro semestre\Dias da pessoa\obj\Debug\net7.0\Dias da pessoa.pdb
+D:\Fatec\códigos\C# Terceiro semestre\Dias da pessoa\obj\Debug\net7.0\Dias da pessoa.genruntimeconfig.cache
+D:\Fatec\códigos\C# Terceiro semestre\Dias da pessoa\obj\Debug\net7.0\ref\Dias da pessoa.dll

@@ -1,0 +1,15 @@
+C:\Users\pedri\OneDrive\Área de Trabalho\Nova pasta\bin\Debug\net7.0\Nova pasta.exe
+C:\Users\pedri\OneDrive\Área de Trabalho\Nova pasta\bin\Debug\net7.0\Nova pasta.deps.json
+C:\Users\pedri\OneDrive\Área de Trabalho\Nova pasta\bin\Debug\net7.0\Nova pasta.runtimeconfig.json
+C:\Users\pedri\OneDrive\Área de Trabalho\Nova pasta\bin\Debug\net7.0\Nova pasta.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\Nova pasta\bin\Debug\net7.0\Nova pasta.pdb
+C:\Users\pedri\OneDrive\Área de Trabalho\Nova pasta\obj\Debug\net7.0\Nova pasta.csproj.AssemblyReference.cache
+C:\Users\pedri\OneDrive\Área de Trabalho\Nova pasta\obj\Debug\net7.0\Nova pasta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedri\OneDrive\Área de Trabalho\Nova pasta\obj\Debug\net7.0\Nova pasta.AssemblyInfoInputs.cache
+C:\Users\pedri\OneDrive\Área de Trabalho\Nova pasta\obj\Debug\net7.0\Nova pasta.AssemblyInfo.cs
+C:\Users\pedri\OneDrive\Área de Trabalho\Nova pasta\obj\Debug\net7.0\Nova pasta.csproj.CoreCompileInputs.cache
+C:\Users\pedri\OneDrive\Área de Trabalho\Nova pasta\obj\Debug\net7.0\Nova pasta.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\Nova pasta\obj\Debug\net7.0\refint\Nova pasta.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\Nova pasta\obj\Debug\net7.0\Nova pasta.pdb
+C:\Users\pedri\OneDrive\Área de Trabalho\Nova pasta\obj\Debug\net7.0\Nova pasta.genruntimeconfig.cache
+C:\Users\pedri\OneDrive\Área de Trabalho\Nova pasta\obj\Debug\net7.0\ref\Nova pasta.dll

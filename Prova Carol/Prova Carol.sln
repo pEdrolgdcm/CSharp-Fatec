@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.916
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prova Carol", "Prova Carol\Prova Carol.csproj", "{8BF117CB-290F-45C0-B132-16FB4A1AC19B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BF117CB-290F-45C0-B132-16FB4A1AC19B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BF117CB-290F-45C0-B132-16FB4A1AC19B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BF117CB-290F-45C0-B132-16FB4A1AC19B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BF117CB-290F-45C0-B132-16FB4A1AC19B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0365CA98-3A1F-458A-92A1-768F5645D213}
+	EndGlobalSection
+EndGlobal

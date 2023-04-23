@@ -1,0 +1,15 @@
+E:\Códigos VS\IdadeENomeAluno\bin\Debug\net6.0\IdadeENomeAluno.exe
+E:\Códigos VS\IdadeENomeAluno\bin\Debug\net6.0\IdadeENomeAluno.deps.json
+E:\Códigos VS\IdadeENomeAluno\bin\Debug\net6.0\IdadeENomeAluno.runtimeconfig.json
+E:\Códigos VS\IdadeENomeAluno\bin\Debug\net6.0\IdadeENomeAluno.dll
+E:\Códigos VS\IdadeENomeAluno\bin\Debug\net6.0\IdadeENomeAluno.pdb
+E:\Códigos VS\IdadeENomeAluno\obj\Debug\net6.0\IdadeENomeAluno.csproj.AssemblyReference.cache
+E:\Códigos VS\IdadeENomeAluno\obj\Debug\net6.0\IdadeENomeAluno.GeneratedMSBuildEditorConfig.editorconfig
+E:\Códigos VS\IdadeENomeAluno\obj\Debug\net6.0\IdadeENomeAluno.AssemblyInfoInputs.cache
+E:\Códigos VS\IdadeENomeAluno\obj\Debug\net6.0\IdadeENomeAluno.AssemblyInfo.cs
+E:\Códigos VS\IdadeENomeAluno\obj\Debug\net6.0\IdadeENomeAluno.csproj.CoreCompileInputs.cache
+E:\Códigos VS\IdadeENomeAluno\obj\Debug\net6.0\IdadeENomeAluno.dll
+E:\Códigos VS\IdadeENomeAluno\obj\Debug\net6.0\refint\IdadeENomeAluno.dll
+E:\Códigos VS\IdadeENomeAluno\obj\Debug\net6.0\IdadeENomeAluno.pdb
+E:\Códigos VS\IdadeENomeAluno\obj\Debug\net6.0\IdadeENomeAluno.genruntimeconfig.cache
+E:\Códigos VS\IdadeENomeAluno\obj\Debug\net6.0\ref\IdadeENomeAluno.dll

@@ -1,0 +1,15 @@
+E:\Códigos VS\+18Idades\bin\Debug\net6.0\+18Idades.exe
+E:\Códigos VS\+18Idades\bin\Debug\net6.0\+18Idades.deps.json
+E:\Códigos VS\+18Idades\bin\Debug\net6.0\+18Idades.runtimeconfig.json
+E:\Códigos VS\+18Idades\bin\Debug\net6.0\+18Idades.dll
+E:\Códigos VS\+18Idades\bin\Debug\net6.0\+18Idades.pdb
+E:\Códigos VS\+18Idades\obj\Debug\net6.0\+18Idades.csproj.AssemblyReference.cache
+E:\Códigos VS\+18Idades\obj\Debug\net6.0\+18Idades.GeneratedMSBuildEditorConfig.editorconfig
+E:\Códigos VS\+18Idades\obj\Debug\net6.0\+18Idades.AssemblyInfoInputs.cache
+E:\Códigos VS\+18Idades\obj\Debug\net6.0\+18Idades.AssemblyInfo.cs
+E:\Códigos VS\+18Idades\obj\Debug\net6.0\+18Idades.csproj.CoreCompileInputs.cache
+E:\Códigos VS\+18Idades\obj\Debug\net6.0\+18Idades.dll
+E:\Códigos VS\+18Idades\obj\Debug\net6.0\refint\+18Idades.dll
+E:\Códigos VS\+18Idades\obj\Debug\net6.0\+18Idades.pdb
+E:\Códigos VS\+18Idades\obj\Debug\net6.0\+18Idades.genruntimeconfig.cache
+E:\Códigos VS\+18Idades\obj\Debug\net6.0\ref\+18Idades.dll
